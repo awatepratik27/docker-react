@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit12 <code>src/App.js</code> and should pratik not save to reload.
+          Edit12 <code>src/App.js</code> changed on feature branch.
         </p>
         <a
           className="App-link"
